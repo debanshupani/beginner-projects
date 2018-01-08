@@ -305,3 +305,21 @@ Go to the store and buy some more, 99 bottles of beer on the wall.
 
 Process finished with exit code 0
 ```
+
+## PythagoreanTheorem.py
+
+```
+Enter three numbers seperated by a space: 1 1 1
+Are these Pythogorean Triplets? Nope.
+Do you want to continue? (Y/N) 3 4 5
+Dude, it was a yes/no question.
+Do you want to continue? (Y/N) y
+Enter three numbers seperated by a space: 4 3 5
+Are these Pythogorean Triplets? Ohh yeah!
+Do you want to continue? (Y/N) Y
+Enter three numbers seperated by a space: 36 27 45
+Are these Pythogorean Triplets? Ohh yeah!
+Do you want to continue? (Y/N) N
+
+Process finished with exit code 0
+```
