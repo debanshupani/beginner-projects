@@ -323,3 +323,84 @@ Do you want to continue? (Y/N) N
 
 Process finished with exit code 0
 ```
+
+## rockPaperScissors.py
+
+```
+rock, paper or scissor? rock
+My move:  rock
+That' s a tie!
+Do you want to play again? (Y/N)
+At any time, type 'score'for the score. y
+
+
+
+rock, paper or scissor? d
+Please type only rock, paper or scissor.
+Do you want to play again? (Y/N)
+At any time, type 'score'for the score. y
+
+
+
+rock, paper or scissor? rock
+My move:  rock
+That' s a tie!
+Do you want to play again? (Y/N)
+At any time, type 'score'for the score. y
+
+
+
+rock, paper or scissor? scissor
+My move:  rock
+I win!
+Do you want to play again? (Y/N)
+At any time, type 'score'for the score. g
+
+
+
+Dude, it was a yes/no question.
+Do you want to play again? (Y/N)
+At any time, type 'score'for the score. score
+
+
+
+The score is:
+You	Me
+0	1
+Do you want to play again? (Y/N) y
+rock, paper or scissor? paper
+My move:  paper
+That' s a tie!
+Do you want to play again? (Y/N)
+At any time, type 'score'for the score. y
+
+
+
+
+rock, paper or scissor? paper
+My move:  rock
+You win!
+Do you want to play again? (Y/N)
+At any time, type 'score'for the score. score
+
+
+
+The score is:
+You	Me
+1	1
+Do you want to play again? (Y/N) y
+rock, paper or scissor? rock
+My move:  scissor
+You win!
+Do you want to play again? (Y/N)
+At any time, type 'score'for the score. score
+
+
+
+The score is:
+You	Me
+2	1
+Do you want to play again? (Y/N) n
+
+Process finished with exit code 0
+```
