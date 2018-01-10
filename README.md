@@ -366,6 +366,7 @@ Use for loop to iterate all possible solutions.
 
 
 ## Solutions
+- [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
 - [Everstalk](https://github.com/Everstalk/BP)
 - [NickSchmiek](https://github.com/NickSchimek/Python-Beginner-Projects)
 - [luangthomas](https://github.com/luongthomas/Python-Mini-Projects)
