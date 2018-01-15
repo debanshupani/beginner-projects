@@ -404,3 +404,11 @@ Do you want to play again? (Y/N) n
 
 Process finished with exit code 0
 ```
+
+## whatsMyNumber.py
+
+```
+I found the number to be 523 !
+
+Process finished with exit code 0
+```
