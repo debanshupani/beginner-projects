@@ -412,3 +412,59 @@ I found the number to be 523 !
 
 Process finished with exit code 0
 ```
+
+## menuCalculator.py
+
+```
+Welcome to our store.
+
+Here's the menu for today:
+
+ITEM_CODE	ITEM_NAME	ITEM_PRICE
+1.			Samosa		Rs.10
+2.			Aloo Tikki		Rs.15
+3.			Bun Samosa		Rs.35
+4.			Oreo Milkshake		Rs.30
+5.			Fresh Lime Soda		Rs.15
+What would you like to order today? 34
+BREAK DOWN OF YOUR ORDER:
+
+ITEM_CODE	ITEM_NAME	ITEM_PRICE
+QUANTITY_ORDERED	TOTAL_PRICE
+3.	35	Bun Samosa	1	Rs.35
+4.	30	Oreo Milkshake	1	Rs.30
+
+Your  final bill amount is Rs.65
+
+Do you want to order again? (Y/N)y
+
+==========================
+Welcome to our store.
+
+Here's the menu for today:
+
+ITEM_CODE	ITEM_NAME	ITEM_PRICE
+1.			Samosa		Rs.10
+2.			Aloo Tikki		Rs.15
+3.			Bun Samosa		Rs.35
+4.			Oreo Milkshake		Rs.30
+5.			Fresh Lime Soda		Rs.15
+What would you like to order today? 33451
+BREAK DOWN OF YOUR ORDER:
+
+ITEM_CODE	ITEM_NAME	ITEM_PRICE
+QUANTITY_ORDERED	TOTAL_PRICE
+1.	10	Samosa	1	Rs.10
+3.	35	Bun Samosa	2	Rs.70
+4.	30	Oreo Milkshake	1	Rs.30
+5.	15	Fresh Lime Soda	1	Rs.15
+
+Your  final bill amount is Rs.125
+
+Do you want to order again? (Y/N)n
+
+==========================
+Thank you for shopping with us.
+
+Process finished with exit code 0
+```
