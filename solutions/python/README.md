@@ -1,6 +1,6 @@
 # Program Outputs
 
-## 99bottles.py
+## [99bottles.py](https://github.com/aekanshd/beginner-projects/blob/master/solutions/python/99bottles.py)
 
 ```
 99 bottles of beer on the wall, 99 bottles of beer.
@@ -306,7 +306,7 @@ Go to the store and buy some more, 99 bottles of beer on the wall.
 Process finished with exit code 0
 ```
 
-## PythagoreanTheorem.py
+## [PythagoreanTheorem.py](https://github.com/aekanshd/beginner-projects/blob/master/solutions/python/PythagoreanTheorem.py)
 
 ```
 Enter three numbers seperated by a space: 1 1 1
@@ -324,7 +324,7 @@ Do you want to continue? (Y/N) N
 Process finished with exit code 0
 ```
 
-## rockPaperScissors.py
+## [rockPaperScissors.py](https://github.com/aekanshd/beginner-projects/blob/master/solutions/python/rockPaperScissors.py)
 
 ```
 rock, paper or scissor? rock
@@ -405,7 +405,7 @@ Do you want to play again? (Y/N) n
 Process finished with exit code 0
 ```
 
-## whatsMyNumber.py
+## [whatsMyNumber.py](https://github.com/aekanshd/beginner-projects/blob/master/solutions/python/whatsMyNumber.py)
 
 ```
 I found the number to be 523 !
@@ -413,7 +413,7 @@ I found the number to be 523 !
 Process finished with exit code 0
 ```
 
-## menuCalculator.py
+## [menuCalculator.py](https://github.com/aekanshd/beginner-projects/blob/master/solutions/python/menuCalculator.py)
 
 ```
 Welcome to our store.
